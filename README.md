@@ -1,7 +1,7 @@
 # Cryptolib
 
 A basic implementation of 5 encryption algorithms, with a demo.
-Developed in the spring of 2022, as an assignment for my [Introduction to Information Security Systems](https://www.csd.uoc.gr/~hy457/) course.
+Developed in the spring of 2022, as an assignment for my [Introduction to Information Security Systems](https://www.csd.uoc.gr/~hy457/) class.
 
 ## Ciphers: 
 - One Time Pad
